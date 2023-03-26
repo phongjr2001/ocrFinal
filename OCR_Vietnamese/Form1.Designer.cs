@@ -1,6 +1,6 @@
 ﻿namespace OCR_Vietnamese
 {
-    partial class Form1
+    partial class Brightness
     {
         /// <summary>
         /// Required designer variable.
@@ -28,14 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Brightness));
             this.btn_choose = new System.Windows.Forms.Button();
             this.btn_ocr = new System.Windows.Forms.Button();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.openFileDialog = new System.Windows.Forms.OpenFileDialog();
             this.label2 = new System.Windows.Forms.Label();
             this.picloading = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btn_start = new System.Windows.Forms.Button();
             this.btn_takephoto = new System.Windows.Forms.Button();
             this.btn_save = new System.Windows.Forms.Button();
@@ -45,8 +44,14 @@
             this.crop = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.adjust = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.trackBar1 = new System.Windows.Forms.TrackBar();
+            this.lbBrightness = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picloading)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_choose
@@ -110,19 +115,6 @@
             this.picloading.TabStop = false;
             this.picloading.Visible = false;
             this.picloading.Click += new System.EventHandler(this.picloading_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox1.Location = new System.Drawing.Point(16, 90);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(597, 574);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseDown);
-            this.pictureBox1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseUp);
             // 
             // btn_start
             // 
@@ -213,11 +205,59 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
-            // Form1
+            // adjust
+            // 
+            this.adjust.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.adjust.Location = new System.Drawing.Point(661, 12);
+            this.adjust.Name = "adjust";
+            this.adjust.Size = new System.Drawing.Size(75, 23);
+            this.adjust.TabIndex = 16;
+            this.adjust.Text = "adjust";
+            this.adjust.UseVisualStyleBackColor = true;
+            this.adjust.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox1.Location = new System.Drawing.Point(16, 90);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(597, 574);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseDown);
+            this.pictureBox1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseUp);
+            // 
+            // trackBar1
+            // 
+            this.trackBar1.LargeChange = 100;
+            this.trackBar1.Location = new System.Drawing.Point(855, 27);
+            this.trackBar1.Maximum = 100;
+            this.trackBar1.Name = "trackBar1";
+            this.trackBar1.Size = new System.Drawing.Size(201, 56);
+            this.trackBar1.SmallChange = 5;
+            this.trackBar1.TabIndex = 17;
+            this.trackBar1.TickFrequency = 5;
+            this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
+            // 
+            // lbBrightness
+            // 
+            this.lbBrightness.AutoSize = true;
+            this.lbBrightness.Location = new System.Drawing.Point(1062, 27);
+            this.lbBrightness.Name = "lbBrightness";
+            this.lbBrightness.Size = new System.Drawing.Size(14, 16);
+            this.lbBrightness.TabIndex = 18;
+            this.lbBrightness.Text = "0";
+            // 
+            // Brightness
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1451, 679);
+            this.Controls.Add(this.lbBrightness);
+            this.Controls.Add(this.trackBar1);
+            this.Controls.Add(this.adjust);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.crop);
@@ -233,18 +273,17 @@
             this.Controls.Add(this.btn_choose);
             this.Controls.Add(this.pictureBox1);
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "Form1";
+            this.Name = "Brightness";
             this.Text = "[C#] Convert Image To Text";
             ((System.ComponentModel.ISupportInitialize)(this.picloading)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btn_choose;
         private System.Windows.Forms.Button btn_ocr;
         private System.Windows.Forms.RichTextBox richTextBox1;
@@ -260,6 +299,11 @@
         private System.Windows.Forms.Button crop;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button adjust;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.TrackBar trackBar1;
+        private System.Windows.Forms.Label lbBrightness;
     }
 }
 
