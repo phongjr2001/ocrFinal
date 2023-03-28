@@ -151,3 +151,229 @@ C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.pdb
 C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.xml
 C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.pdb
 C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\x64\liblept172.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\x64\libtesseract304.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\x86\liblept172.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\x86\libtesseract304.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\tessdata\vie.traineddata
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe.config
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.pdb
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\JetBrains.Annotations.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Context.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Coordination.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Tasks.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.Collections.Deque.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.Disposables.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Buffers.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Collections.Immutable.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Linq.Dynamic.Core.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Memory.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Numerics.Vectors.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Encodings.Web.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Json.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.ValueTuple.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Tesseract.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.dll
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\JetBrains.Annotations.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Context.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Coordination.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Tasks.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.Collections.Deque.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Nito.Disposables.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Buffers.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Collections.Immutable.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Linq.Dynamic.Core.pdb
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Linq.Dynamic.Core.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Memory.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Numerics.Vectors.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Encodings.Web.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Json.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\System.ValueTuple.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Tesseract.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.pdb
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.pdb
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.xml
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.AssemblyReference.cache
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.SuggestedBindingRedirects.cache
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Brightness.resources
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Properties.Resources.resources
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.GenerateResource.cache
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CoreCompileInputs.cache
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CopyComplete
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.exe
+F:\Thực tập cs cn\Phong\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.pdb
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\x64\liblept172.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\x64\libtesseract304.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\x86\liblept172.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\x86\libtesseract304.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\tessdata\vie.traineddata
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe.config
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.pdb
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\AForge.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\AForge.Video.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\JetBrains.Annotations.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.Disposables.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Collections.Immutable.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Tesseract.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\AForge.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\AForge.Video.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\JetBrains.Annotations.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Nito.Disposables.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Collections.Immutable.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Tesseract.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.pdb
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Volo.Abp.Core.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.pdb
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\Volo.Abp.Security.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Brightness.resources
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.exe
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.pdb
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\PdfSharp.Charting.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\PdfSharp.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\PdfSharp.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\PdfSharp.Charting.xml
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\LENOVO\Desktop\thilai\OCR_Vietnamese\bin\Debug\de\PdfSharp.Charting.resources.dll
